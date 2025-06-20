@@ -1,0 +1,8 @@
+name: DragonBallPlugin
+main: com.yourname.dbzplugin.DBZPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  dbz:
+    description: Dragon Ball main command
+    usage: /dbz
